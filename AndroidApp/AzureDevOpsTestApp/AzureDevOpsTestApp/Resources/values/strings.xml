@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AzureDevOpsTestApp</string>
+    <string name="action_settings">Settings</string>
+</resources>
