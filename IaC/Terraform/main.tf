@@ -4,6 +4,10 @@ terraform {
       source  = "hashicorp/azurerm"
       version = "=3.0.0"
     }
+    azuredevops = {
+      source  = "microsoft/azuredevops"
+      version = ">= 0.1.0"
+    }
   }
 }
 
@@ -11,4 +15,17 @@ terraform {
 provider "azurerm" {
   skip_provider_registration = true # This is only required when the User, Service Principal, or Identity running Terraform lacks the permissions to register Azure Resource Providers.
   features {}
+}
+
+resource "azuredevops_project" "androidProject" {
+  name       = "Azure Android Project"
+  description        = "This project will simulate an andriod DevOps enviorment."
+}
+
+resource "azuredevops_git_repository" "repository" {
+  project_id = azuredevops_project.androidProject.id
+  name = "Android App Repo"
+    initialization {
+      init_type = "Clean"
+  }
 }
