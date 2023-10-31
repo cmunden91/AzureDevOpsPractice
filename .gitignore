@@ -1,4 +1,4 @@
-IaC/Terraform/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.0.0/windows_amd64/terraform-provider-azurerm_v3.0.0_x5.exe
-IaC/Terraform/.terraform/providers/registry.terraform.io/microsoft/azuredevops/0.10.0/windows_amd64/terraform-provider-azuredevops_v0.10.0
-IaC/Terraform/terraform.tfstate
-IaC/Terraform/terraform.tfstate.backup
+Scripts/Terraform/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.0.0/windows_amd64/terraform-provider-azurerm_v3.0.0_x5.exe
+Scripts/Terraform/.terraform/providers/registry.terraform.io/microsoft/azuredevops/0.10.0/windows_amd64/terraform-provider-azuredevops_v0.10.0
+Scripts/Terraform/terraform.tfstate
+Scripts/Terraform/terraform.tfstate.backup
