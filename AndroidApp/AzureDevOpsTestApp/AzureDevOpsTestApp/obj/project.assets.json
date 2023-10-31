@@ -1701,11 +1701,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pakun\\source\\repos\\AzureDevOpsTestApp\\AzureDevOpsTestApp\\AzureDevOpsTestApp.csproj",
+      "projectUniqueName": "E:\\pakun\\Documents\\Codeing Projects\\AzureDevOpsPractice\\AndroidApp\\AzureDevOpsTestApp\\AzureDevOpsTestApp\\AzureDevOpsTestApp.csproj",
       "projectName": "AzureDevOpsTestApp",
-      "projectPath": "C:\\Users\\pakun\\source\\repos\\AzureDevOpsTestApp\\AzureDevOpsTestApp\\AzureDevOpsTestApp.csproj",
+      "projectPath": "E:\\pakun\\Documents\\Codeing Projects\\AzureDevOpsPractice\\AndroidApp\\AzureDevOpsTestApp\\AzureDevOpsTestApp\\AzureDevOpsTestApp.csproj",
       "packagesPath": "C:\\Users\\pakun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pakun\\source\\repos\\AzureDevOpsTestApp\\AzureDevOpsTestApp\\obj\\",
+      "outputPath": "E:\\pakun\\Documents\\Codeing Projects\\AzureDevOpsPractice\\AndroidApp\\AzureDevOpsTestApp\\AzureDevOpsTestApp\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
